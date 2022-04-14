@@ -13,4 +13,4 @@ This repository contains the PyTorch source codes to reproduce part of the simul
 ./utils: components/modules required for building the model and training.
 
 ## Introduction of Model Architecture
-![alt text](image.jpg)
+![Model](dapcastion.pdf)
