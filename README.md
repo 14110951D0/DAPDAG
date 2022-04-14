@@ -12,6 +12,10 @@ This repository contains the PyTorch source codes to reproduce part of the simul
 
 ./utils: components/modules required for building the model and training.
 
-## Introduction of Model Architecture
+## Miscellaneous
+
+### Introduction of Model Architecture
 The model structure is depicted as in ![model](./figures/dapcastion.pdf).
-The synthetic regression datasets are generated according to the causal graph in ![graph](./figures/regdag2.pdf).
+
+### True Causal Graphs of Synthetic Datasets
+The synthetic regression and classification datasets are generated according to the causal graphs in ![graph1](./figures/regdag2.pdf) and ![graph2](./figures/cla_dag.pdf).
